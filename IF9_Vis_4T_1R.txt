@@ -1,8 +1,0 @@
-IMAGE_DIRECTORY C:\Users\mitch\Dropbox\Student_photo_analyses\Josie_IF_line_photo_analyses\IF_all_lines\IF_all_unwarped\IF9_Vis_unwarped\ #unwarped image directory
-CONSENSUS_PATH C:\Users\mitch\Dropbox\Student_photo_analyses\Josie_IF_line_photo_analyses\IF_all_lines\IF_All_consensus_final.TPS 
-FACTOR_DATA C:\Users\mitch\Dropbox\Student_photo_analyses\Josie_IF_line_photo_analyses\IF9_Vis\IF9_Vis_descriptions.csv
-TRIANGULATIONS 4
-SAMPLING_RADIUS 1
-OUTPUT_DIRECTORY C:\Users\mitch\Dropbox\Student_photo_analyses\Josie_IF_line_photo_analyses\Extracted_color\ #must end in "\"
-OUTPUT_FILE IF9_Vis_4T_1R.csv
-IS_UV 0 #0 means VIS 1 means UV #directories should end with "\" if running on PC, but "/" if mac (unix)
